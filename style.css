@@ -1,7 +1,8 @@
-  img{ class=”imagem1html” src=”./img/alurastart logo 1.png”
+  img{ class=”cabecalho-imagem” src=”./img/alurastart logo 1.png”
  }   
 
- imagem1html {
-    width: 20%;
-   
-}
+ .cabecalho {
+  background-color: #383D58;
+  color: white;
+  display:flex;
+  }
