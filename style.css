@@ -9,7 +9,7 @@ height: 15%;
 } 
     
 .cabeçalho { 
-background-color: rgb(243, 15, 15); 
+background-color: rgb(255, 57, 57); 
 color: white;
 display:flex;
 justify-content: space-around;
