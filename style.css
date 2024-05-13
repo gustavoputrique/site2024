@@ -1,24 +1,24 @@
-.cabeçalho_lista {
-background-color: green;
-color: rgb(0, 0, 0);
-display: flex;
+* {
+margin: 25;
+padding: 0;
+} 
+
+.cabeçalho-imagem{ 
+width: 15%;
+height: 15%; 
+} 
+    
+.cabeçalho { 
+background-color: rgb(243, 15, 15); 
+color: white;
+display:flex;
 justify-content: space-around;
-align-items: center;
 padding: 24px 0;
-font-size: 24px;
-}
-    
-.cabeçalho_imagem {
-black: 25%;
-height: 25%;
-}
-    
-.itens{
- display: inline-block;
- margin: 0 32px;
- font-size: 30px;
-    
-}
- * {
+} 
+         
+.cabeçalho-lista-item{
+display: inline-block;
 margin: 0 16px;
-padding: 24px 0;    }
+padding: 24px 0; 
+font-size: 24px;
+ }
